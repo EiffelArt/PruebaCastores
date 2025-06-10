@@ -1,0 +1,15 @@
+com\mycompany\almacencas\modelo\dao\MotivoDAO.class
+com\mycompany\almacencas\modelo\Producto.class
+com\mycompany\almacencas\controller\InventarioController.class
+com\mycompany\almacencas\modelo\Motivo.class
+com\mycompany\almacencas\modelo\Usuario.class
+com\mycompany\almacencas\controller\UsuarioController.class
+com\mycompany\almacencas\modelo\dao\UsuarioDAO.class
+com\mycompany\almacencas\JakartaRestConfiguration.class
+com\mycompany\almacencas\modelo\dao\ProductoDAO.class
+com\mycompany\almacencas\controller\ProductoController.class
+com\mycompany\almacencas\resources\JakartaEE10Resource.class
+com\mycompany\almacencas\modelo\dao\MovimientoDAO.class
+com\mycompany\almacencas\modelo\Movimiento.class
+com\mycompany\almacencas\config\Conexion.class
+com\mycompany\almacencas\controller\srvValidar.class
